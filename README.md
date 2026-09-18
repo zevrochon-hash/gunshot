@@ -2,10 +2,10 @@
 .
 .
 .
-###########################################################################################################################################################
+################################################################################################
 THIS IS A MODIFIED VERSION!!!
 this version, forked by me, adds suport for older devices (arm instead of arm64) this version works on the iPhone 6. follow this guide https://droidwin.com/how-to-get-unlimited-google-photos-storage-on-ios-iphone/#METHOD_3_Without_Jailbreak for iPhone and use the arm specifyed .deb instead of the other one. this is alo made to run on a rootless device.
-############################################################################################################################################################
+#################################################################################################
 .
 .
 .

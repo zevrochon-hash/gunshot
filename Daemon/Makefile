@@ -1,4 +1,4 @@
-ARCHS = arm64
+ARCHS = arm arm64
 include $(THEOS)/makefiles/common.mk
 TOOL_NAME = gotohpd
 gotohpd_FILES = main.mm GSDiscoveryService.c

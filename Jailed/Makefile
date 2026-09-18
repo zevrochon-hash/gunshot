@@ -1,5 +1,5 @@
 TARGET := iphone:clang:latest:15.0
-ARCHS = arm64
+ARCHS = arm arm64
 include $(THEOS)/makefiles/common.mk
 include ../UI/sources.mk
 LIBRARY_NAME = GunshotJailed

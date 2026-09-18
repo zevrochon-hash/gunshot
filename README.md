@@ -1,15 +1,15 @@
 # GoToHP for iOS — Gunshot
-
-
-
-
+.
+.
+.
+################################################################################################################################################################################################################
 THIS IS A MODIFIED VERSION!!!
 this version, forked by me, adds suport for older devices (arm instead of arm64) this version works on the iPhone 6. follow this guide https://droidwin.com/how-to-get-unlimited-google-photos-storage-on-ios-iphone/#METHOD_3_Without_Jailbreak for iPhone and use the arm specifyed .deb instead of the other one. this is alo made to run on a rootless device.
-
-
-
-
-
+#################################################################################################################################################################################################################
+.
+.
+.
+.
 [English](README.md) · [日本語](README.ja.md)
 
 A Google Photos uploader for jailbreak, sideloading and LiveContainer, using the Go core from [xob0t/gotohp](https://github.com/xob0t/gotohp). Jailbreak builds upload through a separate daemon; jailed builds run inside Google Photos.

@@ -1,5 +1,5 @@
-TARGET := iphone:clang:latest:15.0
-ARCHS = arm64 arm64e
+TARGET := iphone:clang:latest:12.0
+ARCHS = arm64
 INSTALL_TARGET_PROCESSES = GooglePhotos MobileSlideShow
 include $(THEOS)/makefiles/common.mk
 include UI/sources.mk
